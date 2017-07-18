@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\4semestras\algoritmu sudarymas ir analize\Algoritmu_1labaratorinis\Algoritmu_1labaratorinis\bin\Debug\Algoritmu_1labaratorinis.exe.config
+C:\Users\Acer\Desktop\4semestras\algoritmu sudarymas ir analize\Algoritmu_1labaratorinis\Algoritmu_1labaratorinis\bin\Debug\Algoritmu_1labaratorinis.exe
+C:\Users\Acer\Desktop\4semestras\algoritmu sudarymas ir analize\Algoritmu_1labaratorinis\Algoritmu_1labaratorinis\bin\Debug\Algoritmu_1labaratorinis.pdb
+C:\Users\Acer\Desktop\4semestras\algoritmu sudarymas ir analize\Algoritmu_1labaratorinis\Algoritmu_1labaratorinis\obj\Debug\Algoritmu_1labaratorinis.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\4semestras\algoritmu sudarymas ir analize\Algoritmu_1labaratorinis\Algoritmu_1labaratorinis\obj\Debug\Algoritmu_1labaratorinis.exe
+C:\Users\Acer\Desktop\4semestras\algoritmu sudarymas ir analize\Algoritmu_1labaratorinis\Algoritmu_1labaratorinis\obj\Debug\Algoritmu_1labaratorinis.pdb
